@@ -1,4 +1,3 @@
-```markdown
 # JARVIS: Python Virtual Assistant
 
 JARVIS is a Python virtual assistant program based on the JARVIS system from Iron Man. It is designed to convert speech to text and text to speech using the ChatGPT model from OpenAI.
@@ -85,4 +84,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 - [OpenAI](https://openai.com/) for providing the ChatGPT API.
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) for speech recognition.
 - [pyttsx3](https://pypi.org/project/pyttsx3/) for text-to-speech conversion.
-```
